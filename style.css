@@ -1,0 +1,16 @@
+header {
+    padding-bottom: 3%;
+}
+
+body {
+    background-color:#e6e6fa;
+    font-family: sans-serif;
+    margin: auto;
+    max-width: 38em;
+    padding: 13px;
+    line-height: 1.618;
+}
+
+h1, h2, p {
+    color: #111;
+}
